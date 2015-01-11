@@ -1,5 +1,5 @@
-This is a prototype for a cooking app made for an HCI course "CSC318 Design of Interactive Computational Media" at the University of Toronto.
+Prototype of a cooking app built for a Human Computer Interaction course
 
-It's built using [framer.js](http://framerjs.com/).
+Built using [framer.js](http://framerjs.com/).
 
 [Demo (coming soon)](https://github.com/AjitPawar/cooking-app#)
