@@ -1,7 +1,8 @@
 ## Sous-Chef
 
 Prototype of a cooking app built as part of a HCI (Human-Computer Interation) project. <br/>
-Built using [framer.js](http://framerjs.com/).
+Built using [framer.js](http://framerjs.com/). <br>
+Works only in Google Chrome
 
 #### Features
 * In-line unit conversion
